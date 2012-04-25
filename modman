@@ -1,0 +1,5 @@
+app/code/community/JR                       app/code/community/JR
+app/design/frontend/default/clever          app/design/frontend/default/clever
+app/design/adminhtml/default/clever         app/design/adminhtml/default/clever
+app/etc/modules/JR_CleverCms.xml            app/etc/modules/JR_CleverCms.xml
+app/locale/fr_FR/JR_CleverCms.csv           app/locale/fr_FR/JR_CleverCms.csv
