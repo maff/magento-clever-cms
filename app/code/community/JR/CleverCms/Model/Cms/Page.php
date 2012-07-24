@@ -107,6 +107,9 @@ class JR_CleverCms_Model_Cms_Page extends Mage_Cms_Model_Page
 
     public function isRoot()
     {
+        if (is_null($this->getParentId())) {
+            return false;
+        }
         return 0 === (int) $this->getParentId();
     }
 
