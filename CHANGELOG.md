@@ -1,3 +1,27 @@
+## 2.2.0 (branch: master) (2013-03-11)
+
+### Enhancements
+
+* Tabs are now rendered horizontaly in CMS page modification (thanks to Paul Hachmang)
+* Added Page ID to header of each page (thanks to Paul Hachmang)
+* Added 'No Layout updates' option for custom design (thanks to Paul Hachmang)
+
+### Fixes
+
+* Fixed issue #12 (Page URL key and block identifier already exists after re-creating database) (thanks to Marcin Rogacki)
+
+## 2.1.8 (branch: master) (2012-10-26)
+
+### Fixes
+
+* Fixed issue #19 (Widget Chooser should select name dynamically) (thanks to tantau-limora)
+
+## 2.1.7 (branch: master) (2012-10-25)
+
+### Fixes
+
+* Fixed issue #20 (Choose home page in multi store mode)
+
 ## 2.1.6 (branch: master) (2012-06-20)
 
 ### Fixes
